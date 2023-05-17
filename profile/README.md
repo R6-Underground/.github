@@ -4,6 +4,9 @@
 In order to efficiently manage and safeguard the systems associated with R6: Underground, it is crucial to establish an organization dedicated to archiving and securing these systems. This organization will play a vital role in ensuring the smooth operation and long-term sustainability of R6: Underground.
 
 Short and sweet. There won't be anything to watch for non-attendees here, but you can admire our beautiful logo! :)
+
+Your
+R6Underground-Team
 <br><br>
 
 
