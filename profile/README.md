@@ -5,6 +5,8 @@ In order to efficiently manage and safeguard the systems associated with R6: Und
 
 Short and sweet. There won't be anything to watch for non-attendees here, but you can admire our beautiful logo! :)
 <br><br>
+
+[
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1108203245731582115/1108273737213685770/r6_underground.png" />
-</p>
+</p>](https://dsc.gg/r6underground)
