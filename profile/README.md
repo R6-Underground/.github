@@ -7,7 +7,7 @@ Short and sweet. There won't be anything to watch for non-attendees here, but yo
 <br><br>
 
 
-<a href="https://dsc.gg/r6underground")
+<a href="https://dsc.gg/r6underground">
   <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1108203245731582115/1108273737213685770/r6_underground.png" />
   </p>
